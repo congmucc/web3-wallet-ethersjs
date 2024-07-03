@@ -8,3 +8,22 @@ this is a wallet project
 - TailwindCss
 - React
 - 
+
+
+## Use
+
+
+### Install `pnpm`
+```sh
+npm install -g pnpm
+```
+> if you not install pnpm
+
+
+### Install Dependencies
+```sh
+pnpm install
+```
+
+
+### 
